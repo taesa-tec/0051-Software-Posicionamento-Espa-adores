@@ -166,6 +166,6 @@ This is part of the RD&I project results obtained during the execution of PD-071
 
 ## Licença 
 
-The [MIT License]() (MIT)
+The [MIT License](LICENSE) (MIT)
 
 Copyright :copyright: 2020 - Sistema Suporte e Espacador
