@@ -83,7 +83,10 @@ Os seguintes dados devem ser preenchidos nos controles separados por cinco itens
 
 ## Como rodar a aplicação :arrow_forward:
 <p align="justify">
-Quando o programa é carregado na versão executável, surge a tela inicial do programa, que contém quatro linhas divididas em cinco seções, afim de facilitar o preenchimento de dados, são elas: condutor, suporte, vão e subvão e projeto. 
+O primeiro arquivo a ser aberto: "Spacer Position.lvproj"
+<br> O arquivo principal é o chamado "Spacer Position.vi", para rodá-lo basta clicar no menu/run ou CTRL+R para a tela inicial do programa.
+<br>
+Na tela inicial do programa existem quatro linhas divididas em cinco seções, a fim de facilitar o preenchimento de dados, são elas: condutor, suporte, vão e subvão e projeto. 
 <br>
 Assim que o programa é iniciado, a primeira linha fica habilitada, disponível para o preenchimento. Para se preencher a segunda linha de dados, logo abaixo, deve-se acionar a tecla “Próximo” e assim sucessivamente até a quarta e última linha de dados, chamada “Projeto”. 
 <br>
